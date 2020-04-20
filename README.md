@@ -1,2 +1,1 @@
-# site_m2sb_intro
-Magento 2 for Small Business
+# Magento 2 for Small Business
