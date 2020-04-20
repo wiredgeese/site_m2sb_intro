@@ -1,3 +1,43 @@
-.current {
-  color: green;
+---
+---
+HTML, BODY {
+  margin: 0;
+}
+
+BODY {
+  background: url("{{ '/assets/img/bg.jpg' | relative_url }}") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  padding-top: 10vh;
+}
+
+#layout-main {
+  height: 90vh;
+}
+
+#layout-navigator {
+}
+
+.navbar {
+  border-bottom: 1px #1F1E30 solid;
+}
+
+#layout-body {
+}
+
+#layout-content-panel {
+  background: rgba(31, 30, 48, 0.7);
+  border-radius: 25px;
+  padding: 20px;
+}
+
+#layout-content {
+  color: white;
+}
+
+#layout-footer {
+  border-top: 1px solid #1F1E30;
+  height: 20px;
 }
