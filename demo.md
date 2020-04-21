@@ -1,11 +1,22 @@
 ---
 ---
 # Демо-сайты
+Демонстрационные сайты показывают возможности Magento 2 в базовой конфигурации. Вы можете делать с этими сайтами всё, что сочтёте нужным. Не бойтесь что-либо испортить или сломать. Сайты переразворачиваются автоматически через определённый период времени. Следствием этого является то, что все ваши изменения через какое-то время будут утеряны.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+## Сайт с данными
+Этот сайт содержит данные, подготовленные разработчиками Magento 2. 
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+В каталоге магазина порядка 40 категорий и около 2 тыс. [простых продуктов](https://docs.magento.com/m2/ce/user_guide/catalog/product-create-simple.html) (значительная часть которых объединены в [настраиваемые продукты](https://docs.magento.com/m2/ce/user_guide/catalog/product-create-configurable.html)). Атрибуты продуктов сгруппированы в 8 [наборов](https://docs.magento.com/m2/ce/user_guide/stores/attribute-sets.html), позволяющие описывать разные продукты (сумки, одежду и т.п.). Есть один пользователь (Veronica Costello) и два его заказа. В качестве темы для магазина используется [Luma](https://inchoo.net/ux-ui-design/magento-2-luma-theme-under-the-scope/).     
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+* [Магазин](http://m2.demo.flancer64.com/): входные данные: roni_cost@example.com / roni_cost3@example.com (имя и пароль совпадают); или можете зарегистрироваться под новым клиентом;
+* [Админка](http://m2.demo.flancer64.com/admin/): входные данные: admin / DemoAdmin2020 ;
+
+
+## Пустой сайт
+Пустой сайт содержит минимум данных и даёт представление о том, с чего начнётся ваша работа с Magento-магазином. Чтобы в магазине начали продаваться ваши продукты, вам нужно будет задать структуру каталога (категории), ввести и описать ваши продукты. Если default'овый набор атрибутов продукта вам не подходит, то нужно будет добавить недостающие атрибуты продукта. Если ваш ассортимент продуктов достаточно разнообразен, то нужно будет создать несколько наборов атрибутов (например, для одежды, обуви, сумок, аксессуаров). Разница между готовым магазином и пустым даёт представление о том, какой путь нужно будет пройти вам, чтобы магазин начал приносить вам отдачу.
+
+Пустой сайт отличается от сайта с данными тем, что в нём настроена мультиязычность (испанский и английский), а также применяется другая тема - [shopkart-lite](https://www.hiddentechies.com/shopkart-lite-free-multipurpose-responsive-magentor-2-theme.html).  
+
+* [Магазин](http://es.empty.demo.flancer64.com/): можете зарегистрировать нового пользователя (с фронта или через админку);
+* [Админка](http://es.empty.demo.flancer64.com/admin/): входные данные: admin / Alicante2020 ;
