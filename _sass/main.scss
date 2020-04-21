@@ -19,14 +19,14 @@ BODY {
 }
 
 .navbar {
-  border-bottom: 1px #1F1E30 solid;
+  border-bottom: 1px black solid;
 }
 
 #layout-body {
 }
 
 #layout-content-panel {
-  background: rgba(31, 30, 48, 0.7);
+  background: rgba(75, 49, 30, 0.75);
   border-radius: 25px;
   padding: 20px;
 }
@@ -36,6 +36,11 @@ BODY {
 }
 
 #layout-footer {
-  border-top: 1px solid #1F1E30;
+  border-top: 1px solid black;
   height: 20px;
+}
+
+#layout-footer.bg-dark,
+NAV.bg-dark {
+  background-color: #4B311E !important;
 }
