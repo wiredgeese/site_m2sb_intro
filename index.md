@@ -2,10 +2,14 @@
 ---
 # Magento 2 для малого бизнеса
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Коронавирус меняет мир. Меняет нас, наши представления о мире и о нашем месте в нём. То, что раньше казалось избыточным, становится необходимым. Удалённое взаимодействие с клиентом теперь вопрос выживания, а не вопрос имиджа. Малый бизнес выходит в online и осваивает любые подходящие площадки - Instagram, Facebook, Twitter, email, блоги, сайты, чаты, ... Используется всё, что может способствовать ведению бизнеса в новых условиях.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Платформы для организации торговли в интернете привлекают к себе повышенное внимание - от самых простых до enterprise-уровня. При выборе e-commerce платформы для своего бизнеса очень сложно учесть все нюансы и принять наиболее оптимальное решение. Возможность попробовать платформу "в деле" - построить свой собственный "магазин" на несколько продуктов, зарегистрироваться в нём как клиент, оформить покупку - не только снижает вероятность ошибки в выборе, но и способствует более ясному пониманию места, которое может занимать интернет-магазин в вашем бизнесе. 
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Мы не делаем выбор за вас. Мы предлагаем вам попробовать [Magento 2](https://magento.com/)  - одну из самых продвинутых в функциональном плане e-commerce платформ. И уже на основании собственного опыта решить, подходит ли эта платформа конкретно вам или альтернативные варианты более предпочтительны.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Мы [подготовили](demo.md) две демо-версии магазина на платформе Magento 2 - с демо-данными от разработчиков платформы и пустую.
+
+Если вы решите, что Magento 2 подходит для вашего бизнеса, то мы подготовим для вас пакет по развертыванию приложения, поможем с выбором хостинга и запустим ваш магазин в минимальной конфигурации за 200 EUR.
+
+Связаться с нами.

@@ -1,6 +1,6 @@
-- name: Home
+- name: О проекте
   link: /
-- name: Demo
+- name: Демо
   link: /demo.html
-- name: First Steps
+- name: С чего начать
   link: /firstSteps.html

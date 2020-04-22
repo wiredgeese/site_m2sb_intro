@@ -1,10 +1,19 @@
 # Configuration for Github Pages (Jekyll)
 timezone: UTC
-title: Magento 2 for Small Business
+title: Magento 2 для малого бизнеса
 description: myCustomAndDetailedDescription
 
-plugins:
-  - jekyll-sitemap
+exclude:
+  - .idea/
+#plugins:
+#  - jekyll-sitemap
 
 #sass:
 #  sass_dir: assets/css
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
